@@ -1,3 +1,3 @@
-# Holberton School Zero Day - Vagrant Project
+# Holberton School Zero Day
 
-First project for day zero. Learning basics on Git, GitHub and virtual environments
+First tasks for day zero. Learning basics on Git, GitHub and virtual environments
